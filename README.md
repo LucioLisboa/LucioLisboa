@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Lucio Neto
+- 👀 I’m interested in learn a bit about everything about computation, especially about hardware
+- 🌱 I’m currently learning about java with applicantion in SGBD and compilators
+- 💞️ I’m looking yet what i'm interested to collaborate to
+- 📫 How to reach me lucio.lisboa@hotmail.com.br
+-    Studying computer engineering
