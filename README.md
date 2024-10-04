@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Lucio Neto
-- 👀 I’m interested in learn a bit about everything about computation, especially about hardware
-- 🌱 I’m currently learning about java with applicantion in SGBD and compilators
-- 💞️ I’m looking yet what i'm interested to collaborate to
+- 👋 Hi, I’m Lucio Lisboa
+- 👀 I’m interested in learn a bit about everything about computation, especially about hardware, Embedded System and infra
+- 🌱 I’m currently learning about LoRa with Esp32 to build a sensor network
 - 📫 How to reach me lucio.lisboa@hotmail.com.br
--    Studying computer engineering
+-    Studying Computer Engineering, Ninth semester
